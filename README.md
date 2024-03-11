@@ -31,7 +31,7 @@ def circulate():
     
     print("After circulating the values are:",list1[n:]+list1[:n])
 ## Output:
-![Screenshot 2024-02-28 194918](https://github.com/Devadhaarini/Circulate-the-values-of-N-variables/assets/145796552/ce5cef0a-3ef2-4c3d-8266-feb33b00a871)
+![Screenshot 2024-03-11 204746](https://github.com/Devadhaarini/Circulate-the-values-of-N-variables/assets/145796552/f3af7261-c05f-4490-b1a6-9709056c0468)
 
 ## Result:
 The code is executed successfully.
